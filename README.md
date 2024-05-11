@@ -4,7 +4,8 @@ The official repository for the paper: *Evaluation of Retrieval-Augmented Genera
 
 ### Abstract
 
-Retrieval-Augmented Generation (RAG) has emerged as a pivotal innovation in natural language processing, enhancing generative models by incorporating external information retrieval. Evaluating RAG systems, however, poses distinct challenges due to their hybrid structure and reliance on dynamic knowledge sources. We consequently enhanced an extensive survey and proposed an analysis framework for benchmarks of RAG systems, **RGAR** (**R**etrieval, **G**eneration, **A**dditional **R**equirement), designed to systematically analyze RAG benchmarks by focusing on measurable outputs and established truths. Specifically, we scrutinize and contrast multiple quantifiable metrics of the Retrieval and Generation component, such as relevance, accuracy, and faithfulness, of the internal links within the current RAG evaluation methods, covering all the possible output and ground truth pairs. We also analyze the integration of additional requirements of different works. Additionally, we discuss the limitations of current benchmarks and propose potential directions for further research to address these shortcomings and advance the field of RAG evaluation. In conclusion, this paper collates the challenges associated with RAG evaluation. It presents a thorough analysis and examination of existing methodologies for RAG benchmark design based on the proposed RGAR framework.
+Retrieval-Augmented Generation (RAG) has emerged as a pivotal innovation in natural language processing, enhancing generative models by incorporating external information retrieval. Evaluating RAG systems, however, poses distinct challenges due to their hybrid structure and reliance on dynamic knowledge sources. We consequently enhanced an extensive survey and proposed an analysis framework for benchmarks of RAG systems, **RGAR** (**R**etrieval, **G**eneration, **A**dditional **R**equirement), designed to systematically analyze RAG benchmarks by focusing on measurable outputs and established truths. Specifically, we scrutinize and contrast multiple quantifiable metrics of the Retrieval and Generation component, such as relevance, accuracy, and faithfulness, of the internal links within the current RAG evaluation methods, covering all the possible output and ground truth pairs. We also analyze the integration of additional requirements of different works. Additionally, we discuss the limitations of current benchmarks and propose potential directions for further research to address these shortcomings and advance the field of RAG evaluation.
+<!-- In conclusion, this paper collates the challenges associated with RAG evaluation. It presents a thorough analysis and examination of existing methodologies for RAG benchmark design based on the proposed RGAR framework. -->
 
 ### Analysis Framework for Evaluating RAG Systems
 
@@ -15,15 +16,14 @@ Retrieval-Augmented Generation (RAG) has emerged as a pivotal innovation in natu
 * Figure 1. The structure of the RAG system with retrieval and generation components and corresponding four phrases: indexing, search, prompting, and inferencing. The pairs of EOs and GTs are highlighted in red and green, with brown dashed arrows. -->
 
 <p align="center">
-    <img src="figures/aspect-display.png" alt="drawing" width=70% />
+    <img src="figures/aspect-display.png" alt="drawing" width=80% />
 </p>
 
-* The **Target** modular of ***RGAR*** framework. The retrieval and generation components are highlighted in red and green, respectively. The internal links between the retrieval and generation components are highlighted in blue. The external links between the retrieval and generation components and the additional requirements are highlighted in brown. The pairs of EOs and GTs are highlighted in red and green, respectively. The brown dashed arrows indicate the relationships between the EOs and GTs.
-
+* The **Target** modular of ***RGAR*** framework. The retrieval and generation components are highlighted in red and green, respectively.
 
 ### Reference Framework
 <p align="center">
-    <img src="figures/relative-work.png" alt="drawing" width=70% />
+    <img src="figures/relative-work.png" alt="drawing" width=80% />
 </p>
 
 | Category | Framework | Webpage | Paper |
