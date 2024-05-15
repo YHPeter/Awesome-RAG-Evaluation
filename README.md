@@ -48,15 +48,17 @@ Retrieval-Augmented Generation (RAG) has emerged as a pivotal innovation in natu
 [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/): https://arxiv.org/abs/2305.14387
 [SuperCLUE](https://superclueai.com/): https://arxiv.org/abs/2307.15020 -->
 
-<!-- ### Citation
+### Citation
 
-If you find this repository helpful, please consider citing our paper:
+If you find this paper or repository helpful, please consider citing our work:
 
 ```
-@article{rag-evaluation,
-  title={Evaluation of Retrieval-Augmented Generation: A Survey},
-  author={Hao Yu, },
-  journal={},
-  year={2024}
+@misc{yu2024evaluation,
+      title={Evaluation of Retrieval-Augmented Generation: A Survey}, 
+      author={Hao Yu and Aoran Gan and Kai Zhang and Shiwei Tong and Qi Liu and Zhaofeng Liu},
+      year={2024},
+      eprint={2405.07437},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
-``` -->
+```
