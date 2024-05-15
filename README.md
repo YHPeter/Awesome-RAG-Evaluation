@@ -1,6 +1,6 @@
 # Awesome RAG Evaluation
 
-The official repository for the paper: *Evaluation of Retrieval-Augmented Generation: A Survey* [Arxiv](https://arxiv.org/abs/2405.07437).
+The official repository for the paper: *Evaluation of Retrieval-Augmented Generation: A Survey* [Arxiv](https://arxiv.org/pdf/2405.07437).
 
 ### Abstract
 
