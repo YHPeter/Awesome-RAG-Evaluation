@@ -46,6 +46,9 @@ Retrieval-Augmented Generation (RAG) has recently gained traction in natural lan
 | Benchmark | ReEval | https://autodebug-llm.github.io | https://aclanthology.org/2024.findings-naacl.85/ |
 | Research | FiD-Light | - | https://doi.org/10.1145/3539618.3591687 |
 | Research | Diversity Reranker | https://towardsdatascience.com/enhancing-rag-pipelines-in-haystack-45f14e2bc9f5 | - |
+| Updated |
+| Benchmark | NoMIRACL | https://github.com/project-miracl/nomiracl  | https://arxiv.org/abs/2312.11361 |
+| Benchmark | FaaF | https://github.com/vasiliskatr/faaf | https://arxiv.org/pdf/2403.03888
 
 <!-- ### LLMs Learderboard
 [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard): https://arxiv.org/abs/2306.05685v4
