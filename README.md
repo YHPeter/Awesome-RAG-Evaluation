@@ -33,6 +33,7 @@ Retrieval-Augmented Generation (RAG) has recently gained traction in natural lan
 | Tool | TruEra RAG Triad | https://www.trulens.org/trulens_eval/getting_started/core_concepts/rag_triad | - |
 | Tool | LangChain Bench. | https://langchain-ai.github.io/langchain-benchmarks/notebooks/retrieval/langchain_docs_qa.html | - |
 | Tool | Databricks Eval | https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG | - |
+| Tool | RAG Playground | - | https://arxiv.org/abs/2412.12322 |
 | Benchmark | RAGAs | https://github.com/explodinggradients/ragas | https://aclanthology.org/2024.eacl-demo.16 |
 | Benchmark | RECALL | - | https://arxiv.org/abs/2311.08147 |
 | Benchmark | ARES | https://github.com/stanford-futuredata/ARES | https://aclanthology.org/2024.naacl-long.20 |
@@ -63,10 +64,8 @@ Retrieval-Augmented Generation (RAG) has recently gained traction in natural lan
 | Benchmark | SCARF | https://github.com/Eustema-S-p-A/SCARF | https://arxiv.org/pdf/2504.07803 |
 <!-- | Research | FiD-Light | - | https://doi.org/10.1145/3539618.3591687 | -->
 <!-- | Research | Diversity Reranker | https://towardsdatascience.com/enhancing-rag-pipelines-in-haystack-45f14e2bc9f5 | - | -->
-| Tool | RAG Playground | - | https://arxiv.org/abs/2412.12322 |
-| Benchmark | NoMIRACL | https://github.com/project-miracl/nomiracl  | https://arxiv.org/abs/2312.11361 |
+<!-- | Benchmark | NoMIRACL | https://github.com/project-miracl/nomiracl  | https://arxiv.org/abs/2312.11361 | -->
 <!-- | Benchmark | FaaF | https://github.com/vasiliskatr/faaf | https://arxiv.org/pdf/2403.03888 -->
-
 <!-- ### LLMs Learderboard
 [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard): https://arxiv.org/abs/2306.05685v4
 [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/): https://arxiv.org/abs/2305.14387
