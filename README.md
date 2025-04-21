@@ -30,25 +30,42 @@ Retrieval-Augmented Generation (RAG) has recently gained traction in natural lan
 
 | Category | Framework | Webpage | Paper |
 |---|---|---|---|
-| Tool | TruEra RAG Triad | https://www.trulens.org/trulens_eval/getting_started/core_concepts/rag_triad/ | - |
+| Tool | TruEra RAG Triad | https://www.trulens.org/trulens_eval/getting_started/core_concepts/rag_triad | - |
 | Tool | LangChain Bench. | https://langchain-ai.github.io/langchain-benchmarks/notebooks/retrieval/langchain_docs_qa.html | - |
 | Tool | Databricks Eval | https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG | - |
-| Benchmark | RAGAs | https://github.com/explodinggradients/ragas | https://aclanthology.org/2024.eacl-demo.16/ |
+| Benchmark | RAGAs | https://github.com/explodinggradients/ragas | https://aclanthology.org/2024.eacl-demo.16 |
 | Benchmark | RECALL | - | https://arxiv.org/abs/2311.08147 |
-| Benchmark | ARES | https://github.com/stanford-futuredata/ARES | https://arxiv.org/abs/2311.09476 |
-| Benchmark | RGB | https://github.com/chen700564/RGB | https://ojs.aaai.org/index.php/AAAI/article/view/29728 |
-| Benchmark | MultiHop-RAG | https://github.com/yixuantt/MultiHop-RAG/ | https://arxiv.org/abs/2401.15391 |
-| Benchmark | CRUD-RAG | https://github.com/IAAR-Shanghai/CRUD_RAG | https://arxiv.org/abs/2401.17043v2 |
-| Benchmark | MedRag | https://github.com/Teddy-XiongGZ/MedRAG | http://arxiv.org/abs/2402.13178v2 |
-| Benchmark | FeB4RAG | https://github.com/ielab/FeB4RAG | http://arxiv.org/abs/2402.11891v1 |
-| Benchmark | CDQA | https://github.com/Alibaba-NLP/CDQA | https://arxiv.org/abs/2402.19248v2 |
+| Benchmark | ARES | https://github.com/stanford-futuredata/ARES | https://aclanthology.org/2024.naacl-long.20 |
+| Benchmark | RGB | https://github.com/chen700564/RGB | https://dl.acm.org/doi/10.1609/aaai.v38i16.29728 |
+| Benchmark | MultiHop-RAG | https://github.com/yixuantt/MultiHop-RAG | https://openreview.net/forum?id=t4eB3zYWBK#discussion |
+| Benchmark | CRUD-RAG | https://github.com/IAAR-Shanghai/CRUD_RAG | https://dl.acm.org/doi/10.1145/3701228 |
+| Benchmark | MedRAGBench | https://github.com/Teddy-XiongGZ/MedRAG | https://aclanthology.org/2024.findings-acl.372 |
+| Benchmark | FeB4RAG | https://github.com/ielab/FeB4RAG | https://dl.acm.org/doi/10.1145/3626772.3657853 |
+| Benchmark | CDQA | https://github.com/Alibaba-NLP/CDQA | https://aclanthology.org/2025.coling-main.695 |
 | Benchmark | DomainRAG | https://github.com/ShootingWong/DomainRAG | https://arxiv.org/abs/2406.05654v2 |
-| Benchmark | ReEval | https://autodebug-llm.github.io | https://aclanthology.org/2024.findings-naacl.85/ |
-| Research | FiD-Light | - | https://doi.org/10.1145/3539618.3591687 |
-| Research | Diversity Reranker | https://towardsdatascience.com/enhancing-rag-pipelines-in-haystack-45f14e2bc9f5 | - |
-| Updated |
+| Benchmark | ReEval | https://autodebug-llm.github.io | https://aclanthology.org/2024.findings-naacl.85 |
+| Benchmark | RAGBench | https://huggingface.co/datasets/rungalileo/ragbench | https://arxiv.org/abs/2407.11005 |
+| Benchmark | OmniEval | https://github.com/RUC-NLPIR/OmniEval | https://arxiv.org/abs/2412.13018 |
+| Benchmark | MTRAG | https://github.com/ibm/mt-rag-benchmark | https://arxiv.org/abs/2501.03468 |
+| Benchmark | LegalBench-RAG | https://github.com/zeroentropy-ai/legalbenchrag | https://arxiv.org/abs/2408.10343 |
+| Benchmark | eRAG | https://github.com/alirezasalemi7/eRAG | https://dl.acm.org/doi/10.1145/3626772.3657957 |
+| Benchmark | CoFE-RAG | - | https://arxiv.org/abs/2410.12248 |
+| Benchmark | U-NIAH | https://github.com/Tongji-KGLLM/U-NIAH | https://arxiv.org/abs/2503.00353 |
+| Benchmark | CoURAGE | - | https://link.springer.com/chapter/10.1007/978-3-031-70242-6_37 |
+| Benchmark | RAGEval | https://github.com/OpenBMB/RAGEval | https://arxiv.org/abs/2408.01262 |
+| Benchmark | OCRRAG | https://github.com/opendatalab/OHR-Bench | https://arxiv.org/abs/2412.02592 |
+| Benchmark | ArabicRAGEval | - | https://arxiv.org/abs/2403.18350 |
+| Benchmark | FairnessRAG | - | https://aclanthology.org/2025.coling-main.669 |
+| Benchmark | TelecomRAGEval | - | https://arxiv.org/abs/2407.12873 |
+| Benchmark | CRAG | https://github.com/facebookresearch/CRAG | https://proceedings.neurips.cc/paper_files/paper/2024/hash/1435d2d0fca85a84d83ddcb754f58c29-Abstract-Datasets_and_Benchmarks_Track.html |
+| Benchmark | FreshLLMs | https://github.com/freshllms/freshqa | https://aclanthology.org/2024.findings-acl.813 |
+| Benchmark | InstructRAG | https://followrag.github.io | https://arxiv.org/abs/2410.09584 |
+| Benchmark | SCARF | https://github.com/Eustema-S-p-A/SCARF | https://arxiv.org/pdf/2504.07803 |
+<!-- | Research | FiD-Light | - | https://doi.org/10.1145/3539618.3591687 | -->
+<!-- | Research | Diversity Reranker | https://towardsdatascience.com/enhancing-rag-pipelines-in-haystack-45f14e2bc9f5 | - | -->
+| Tool | RAG Playground | - | https://arxiv.org/abs/2412.12322 |
 | Benchmark | NoMIRACL | https://github.com/project-miracl/nomiracl  | https://arxiv.org/abs/2312.11361 |
-| Benchmark | FaaF | https://github.com/vasiliskatr/faaf | https://arxiv.org/pdf/2403.03888
+<!-- | Benchmark | FaaF | https://github.com/vasiliskatr/faaf | https://arxiv.org/pdf/2403.03888 -->
 
 <!-- ### LLMs Learderboard
 [LMSYS Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard): https://arxiv.org/abs/2306.05685v4
@@ -70,9 +87,17 @@ If you find this paper or repository helpful, please consider citing our work:
 }
 ```
 
+Citation for benchmarks: [benchmarks.bib](benchmarks.bib)
+
+### Call for Contributions
+
+We welcome contributions to this repository, including new benchmarks, datasets, and evaluation metrics. If you have any suggestions or would like to collaborate, please open an issue or pull request.
+
 ### Changelog
 
 - 2024-05-11: Initial release of the paper and repository.
 - 2024-06-25: Acceptance of the paper by the 2024 CCF Big Data.
 - 2024-06-30: Add two benchmarks: DomainRAG and ReEval.
 - 2024-07-03: Update Arxiv version to v2.
+- 2024-07-16: Add multiple new benchmarks and research papers to the reference table. Update existing paper links.
+- 2025-04-21: Add new benchmarks for RAG system.
