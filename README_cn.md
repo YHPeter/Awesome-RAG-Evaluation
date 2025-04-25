@@ -81,12 +81,24 @@ RAG通过整合检索到的信息提升了生成大语言模型（Large Language
 本文探索了评估RAG系统的复杂性和挑战，并提出了一种分析RAG全流程的评估的方法（*Auepora*），重点关注评估目标、评估数据和量化指标。希望为研究人员提供一个视角更好地理解和RAG评价系统以及推动搭建更完善的RAG基准测试。
 
 ```
-@misc{yu2024evaluation,
-      title={Evaluation of Retrieval-Augmented Generation: A Survey}, 
-      author={Hao Yu and Aoran Gan and Kai Zhang and Shiwei Tong and Qi Liu and Zhaofeng Liu},
-      year={2024},
-      eprint={2405.07437},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@InProceedings{Yu2025,
+    author    = {Yu, Hao and Gan, Aoran and Zhang, Kai and Tong, Shiwei and Liu, Qi and Liu, Zhaofeng},
+    booktitle = {Big Data},
+    title     = {Evaluation of Retrieval-Augmented Generation: A Survey},
+    year      = {2025},
+    address   = {Singapore},
+    editor    = {Zhu, Wenwu and Xiong, Hui and Cheng, Xiuzhen and Cui, Lizhen and Dou, Zhicheng and Dong, Junyu and Pang, Shanchen and Wang, Li and Kong, Lanju and Chen, Zhenxiang},
+    pages     = {102--120},
+    publisher = {Springer Nature Singapore},
+    isbn      = {978-981-96-1024-2},
+}
+@misc{gan2025retrievalaugmentedgenerationevaluation,
+    title={Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey}, 
+    author={Aoran Gan and Hao Yu and Kai Zhang and Qi Liu and Wenyu Yan and Zhenya Huang and Shiwei Tong and Guoping Hu},
+    year={2025},
+    eprint={2504.14891},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2504.14891}, 
 }
 ```

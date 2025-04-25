@@ -76,13 +76,25 @@ Retrieval-Augmented Generation (RAG) has recently gained traction in natural lan
 If you find this paper or repository helpful, please consider citing our work:
 
 ```
-@misc{yu2024evaluation,
-      title={Evaluation of Retrieval-Augmented Generation: A Survey}, 
-      author={Hao Yu and Aoran Gan and Kai Zhang and Shiwei Tong and Qi Liu and Zhaofeng Liu},
-      year={2024},
-      eprint={2405.07437},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@InProceedings{Yu2025,
+    author    = {Yu, Hao and Gan, Aoran and Zhang, Kai and Tong, Shiwei and Liu, Qi and Liu, Zhaofeng},
+    booktitle = {Big Data},
+    title     = {Evaluation of Retrieval-Augmented Generation: A Survey},
+    year      = {2025},
+    address   = {Singapore},
+    editor    = {Zhu, Wenwu and Xiong, Hui and Cheng, Xiuzhen and Cui, Lizhen and Dou, Zhicheng and Dong, Junyu and Pang, Shanchen and Wang, Li and Kong, Lanju and Chen, Zhenxiang},
+    pages     = {102--120},
+    publisher = {Springer Nature Singapore},
+    isbn      = {978-981-96-1024-2},
+}
+@misc{gan2025retrievalaugmentedgenerationevaluation,
+    title={Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey}, 
+    author={Aoran Gan and Hao Yu and Kai Zhang and Qi Liu and Wenyu Yan and Zhenya Huang and Shiwei Tong and Guoping Hu},
+    year={2025},
+    eprint={2504.14891},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2504.14891}, 
 }
 ```
 
