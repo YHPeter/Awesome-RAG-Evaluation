@@ -34,6 +34,7 @@ Retrieval-Augmented Generation (RAG) has recently gained traction in natural lan
 | Tool | LangChain Bench. | https://langchain-ai.github.io/langchain-benchmarks/notebooks/retrieval/langchain_docs_qa.html | - |
 | Tool | Databricks Eval | https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG | - |
 | Tool | RAG Playground | - | https://arxiv.org/abs/2412.12322 |
+| Tool | ai-evaluation | https://github.com/future-agi/ai-evaluation | - |
 | Benchmark | RAGAs | https://github.com/explodinggradients/ragas | https://aclanthology.org/2024.eacl-demo.16 |
 | Benchmark | RECALL | - | https://arxiv.org/abs/2311.08147 |
 | Benchmark | ARES | https://github.com/stanford-futuredata/ARES | https://aclanthology.org/2024.naacl-long.20 |
