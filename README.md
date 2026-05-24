@@ -62,6 +62,7 @@ Retrieval-Augmented Generation (RAG) has recently gained traction in natural lan
 | Benchmark | FreshLLMs | https://github.com/freshllms/freshqa | https://aclanthology.org/2024.findings-acl.813 |
 | Benchmark | InstructRAG | https://followrag.github.io | https://arxiv.org/abs/2410.09584 |
 | Benchmark | SCARF | https://github.com/Eustema-S-p-A/SCARF | https://arxiv.org/pdf/2504.07803 |
+| Benchmark | KB Arena | https://github.com/xmpuspus/kb-arena | https://doi.org/10.5281/zenodo.20319678 |
 <!-- | Research | FiD-Light | - | https://doi.org/10.1145/3539618.3591687 | -->
 <!-- | Research | Diversity Reranker | https://towardsdatascience.com/enhancing-rag-pipelines-in-haystack-45f14e2bc9f5 | - | -->
 <!-- | Benchmark | NoMIRACL | https://github.com/project-miracl/nomiracl  | https://arxiv.org/abs/2312.11361 | -->
@@ -112,3 +113,4 @@ We welcome contributions to this repository, including new benchmarks, datasets,
 - 2024-07-03: Update Arxiv version to v2.
 - 2024-07-16: Add multiple new benchmarks and research papers to the reference table. Update existing paper links.
 - 2025-04-21: Add new benchmarks for RAG system.
+- 2026-05-24: Add KB Arena benchmark (compares 9 retrieval architectures with statistical IR metrics).
