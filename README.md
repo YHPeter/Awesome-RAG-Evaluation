@@ -34,6 +34,7 @@ Retrieval-Augmented Generation (RAG) has recently gained traction in natural lan
 | Tool | LangChain Bench. | https://langchain-ai.github.io/langchain-benchmarks/notebooks/retrieval/langchain_docs_qa.html | - |
 | Tool | Databricks Eval | https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG | - |
 | Tool | RAG Playground | - | https://arxiv.org/abs/2412.12322 |
+| Tool | RAG-LCC | https://github.com/HarinezumIgel/RAG-LCC | - |
 | Benchmark | RAGAs | https://github.com/explodinggradients/ragas | https://aclanthology.org/2024.eacl-demo.16 |
 | Benchmark | RECALL | - | https://arxiv.org/abs/2311.08147 |
 | Benchmark | ARES | https://github.com/stanford-futuredata/ARES | https://aclanthology.org/2024.naacl-long.20 |
@@ -63,6 +64,7 @@ Retrieval-Augmented Generation (RAG) has recently gained traction in natural lan
 | Benchmark | InstructRAG | https://followrag.github.io | https://arxiv.org/abs/2410.09584 |
 | Benchmark | SCARF | https://github.com/Eustema-S-p-A/SCARF | https://arxiv.org/pdf/2504.07803 |
 | Benchmark | Industrial Manual RAG Evaluation Pack | https://github.com/kylecoutray/industrial-manual-rag-eval | - |
+| Benchmark | CoFaithfulQA | https://huggingface.co/datasets/chengpingan/CoFaithfulQA | https://openreview.net/forum?id=CyUq9D99vE |
 <!-- | Research | FiD-Light | - | https://doi.org/10.1145/3539618.3591687 | -->
 <!-- | Research | Diversity Reranker | https://towardsdatascience.com/enhancing-rag-pipelines-in-haystack-45f14e2bc9f5 | - | -->
 <!-- | Benchmark | NoMIRACL | https://github.com/project-miracl/nomiracl  | https://arxiv.org/abs/2312.11361 | -->
