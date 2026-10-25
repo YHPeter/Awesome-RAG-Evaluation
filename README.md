@@ -63,6 +63,7 @@ Retrieval-Augmented Generation (RAG) has recently gained traction in natural lan
 | Benchmark | FreshLLMs | https://github.com/freshllms/freshqa | https://aclanthology.org/2024.findings-acl.813 |
 | Benchmark | InstructRAG | https://followrag.github.io | https://arxiv.org/abs/2410.09584 |
 | Benchmark | SCARF | https://github.com/Eustema-S-p-A/SCARF | https://arxiv.org/pdf/2504.07803 |
+| Benchmark | Industrial Manual RAG Evaluation Pack | https://github.com/kylecoutray/industrial-manual-rag-eval | - |
 | Benchmark | CoFaithfulQA | https://huggingface.co/datasets/chengpingan/CoFaithfulQA | https://openreview.net/forum?id=CyUq9D99vE |
 <!-- | Research | FiD-Light | - | https://doi.org/10.1145/3539618.3591687 | -->
 <!-- | Research | Diversity Reranker | https://towardsdatascience.com/enhancing-rag-pipelines-in-haystack-45f14e2bc9f5 | - | -->
