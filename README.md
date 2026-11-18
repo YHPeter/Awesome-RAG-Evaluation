@@ -64,6 +64,7 @@ Retrieval-Augmented Generation (RAG) has recently gained traction in natural lan
 | Benchmark | InstructRAG | https://followrag.github.io | https://arxiv.org/abs/2410.09584 |
 | Benchmark | SCARF | https://github.com/Eustema-S-p-A/SCARF | https://arxiv.org/pdf/2504.07803 |
 | Benchmark | CoFaithfulQA | https://huggingface.co/datasets/chengpingan/CoFaithfulQA | https://openreview.net/forum?id=CyUq9D99vE |
+| Benchmark | Biomedical Search Benchmark | https://www.arca.inc/blog/biomedical-search-benchmark | - |
 <!-- | Research | FiD-Light | - | https://doi.org/10.1145/3539618.3591687 | -->
 <!-- | Research | Diversity Reranker | https://towardsdatascience.com/enhancing-rag-pipelines-in-haystack-45f14e2bc9f5 | - | -->
 <!-- | Benchmark | NoMIRACL | https://github.com/project-miracl/nomiracl  | https://arxiv.org/abs/2312.11361 | -->
